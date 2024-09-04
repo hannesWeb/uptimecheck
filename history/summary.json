@@ -4,19 +4,19 @@
     "url": "https://www.hannes-hirsch.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.hannes-hirsch.de.ico",
     "slug": "main-webpage",
-    "status": "down",
-    "uptime": "5.46%",
-    "uptimeDay": "5.46%",
-    "uptimeWeek": "5.46%",
-    "uptimeMonth": "5.46%",
-    "uptimeYear": "5.46%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "3.78%",
+    "uptimeDay": "3.78%",
+    "uptimeWeek": "3.78%",
+    "uptimeMonth": "3.78%",
+    "uptimeYear": "3.78%",
+    "time": 633,
+    "timeDay": 633,
+    "timeWeek": 633,
+    "timeMonth": 633,
+    "timeYear": 633,
     "dailyMinutesDown": {
-      "2024-09-04": 5
+      "2024-09-04": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "http://www.hannes-hirsch.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.hannes-hirsch.de.ico",
     "slug": "fallback",
-    "status": "down",
-    "uptime": "6.03%",
-    "uptimeDay": "6.03%",
-    "uptimeWeek": "6.03%",
-    "uptimeMonth": "6.03%",
-    "uptimeYear": "6.03%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "3.64%",
+    "uptimeDay": "3.64%",
+    "uptimeWeek": "3.64%",
+    "uptimeMonth": "3.64%",
+    "uptimeYear": "3.64%",
+    "time": 360,
+    "timeDay": 360,
+    "timeWeek": 360,
+    "timeMonth": 360,
+    "timeYear": 360,
     "dailyMinutesDown": {
-      "2024-09-04": 4
+      "2024-09-04": 8
     }
   }
 ]
