@@ -24,6 +24,25 @@ status-website:
   theme: ocean
   introTitle: "**Uptimecheck** for Hannes Hirsch's domains."
   introMessage: This is a status page which uses **real-time** data.
+  customBodyHtml: >
+   <a href="https://www.hannes-hirsch.de" id="floating-button" style="
+    display: block;
+    width: 120px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #5C6BC0;
+    color: white;
+    text-align: center;
+    padding: 16px 0;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+" onmouseover="this.style.backgroundColor='#3F51B5';" onmouseout="this.style.backgroundColor='#5C6BC0';">
+    Zurück
+    </a>
   navbar:
     - title: Status
       href: /
