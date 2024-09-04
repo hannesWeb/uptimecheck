@@ -5,9 +5,7 @@ repo: uptimecheck # The name of this repository
 sites:
   - name: Main Webpage
     url: https://www.hannes-hirsch.de
-    expectedStatusCodes:
-      - 200
-      - 201
+    __dangerous__body_down: "Wir werden bald zurück sein!"
   - name: Fallback
     url: http://www.hannes-hirsch.de
     expectedStatusCodes:
