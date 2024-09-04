@@ -5,8 +5,16 @@ repo: uptimecheck # The name of this repository
 sites:
   - name: Main Webpage
     url: https://www.hannes-hirsch.de
+    expectedStatusCodes:
+      - 200
+      - 201
   - name: Fallback
     url: http://www.hannes-hirsch.de
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 302
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
