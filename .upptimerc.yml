@@ -6,11 +6,10 @@ sites:
   - name: Main Webpage
     url: https://www.hannes-hirsch.de
     __dangerous__body_down: "Wir werden bald zurück sein!"
+ 
   - name: Fallback
     url: http://www.hannes-hirsch.de
-    expectedStatusCodes:
-      - 200
-      - 201
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
