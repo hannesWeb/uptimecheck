@@ -1,5 +1,5 @@
 # Change these first
-owner: hannesWeb # Your GitHub organization or username, where this repository lives
+owner: hannesWeb # Your GitHub organization or usernam e, where this repository lives
 repo: uptimecheck # The name of this repository
 
 sites:
