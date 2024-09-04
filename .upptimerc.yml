@@ -11,12 +11,17 @@ sites:
     url: http://www.hannes-hirsch.de
     __dangerous__insecure: true
 
+  - name: API
+    url: https://hannes-hirsch.de/api
+    __dangerous__body_degraded_if_text_missing: "API-Schnittstelle"
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.hannes-hirsch.de
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptimecheck
+  theme: ocean
   introTitle: "**Uptimecheck** for Hannes Hirsch's domains."
   introMessage: This is a status page which uses **real-time** data.
   navbar:
