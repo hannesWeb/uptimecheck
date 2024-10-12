@@ -1,7 +1,7 @@
 url: https://hannes-hirsch.de/api
-status: up
-code: 200
-responseTime: 478
-lastUpdated: 2024-10-11T23:18:37.203Z
+status: degraded
+code: 403
+responseTime: 368
+lastUpdated: 2024-10-12T06:36:46.795Z
 startTime: 2024-09-04T12:21:36.889Z
 generator: Upptime <https://github.com/upptime/upptime>
